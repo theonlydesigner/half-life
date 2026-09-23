@@ -10,5 +10,5 @@
 * note: since this is the master repo for five separate descents into engineering madness, there is no master BOM. each of the 5 project folders has its own README and BOM detailing exactly how much grant money i am burning through for that specific week.
 
 ## visual showcase
-![week 1 pcb preview](images/week1_rp2040_preview.png)
+![week 1 pcb preview](Week-1/images/preview.png)
 *(a sneak peek of the week 1 custom RP2040 dev board before i inevitably wire something backwards)*
